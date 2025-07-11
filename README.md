@@ -28,8 +28,8 @@
 
 1.  **克隆仓库**
     ```bash
-    git clone [你的项目GitHub URL]
-    cd [你的项目文件夹名]
+    git clone https://github.com/wusier/CNN_Model_Benchmark
+    cd CNN_Model_Benchmark
     ```
 
 2.  **创建虚拟环境并安装依赖**
